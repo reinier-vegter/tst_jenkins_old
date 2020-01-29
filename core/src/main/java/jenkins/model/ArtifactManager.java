@@ -35,7 +35,7 @@ import java.util.Map;
 import jenkins.util.VirtualFile;
 
 /**
- * Manager of artifacts for one build.
+ * Manager of artifacts for one build. Foobar
  * @see ArtifactManagerFactory
  * @since 1.532
  */
