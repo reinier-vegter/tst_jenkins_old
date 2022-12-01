@@ -108,7 +108,7 @@ THE SOFTWARE.
     <dependency> <!-- TODO seems to be used only by PluginManagerTest -->
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>subversion</artifactId>
-      <version>1.45</version>
+      <version>2.15.4</version>
       <scope>test</scope>
     </dependency>
     <dependency>
